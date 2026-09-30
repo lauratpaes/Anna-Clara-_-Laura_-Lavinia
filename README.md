@@ -27,9 +27,13 @@ O notebook apresenta os seguintes tópicos:
 ## Contextos biológicos aplicados
 
 *   **Aplicação de aves**: estudo de categorias taxonômicas. O banco de dados foi utilizado para avaliar a distribuição da ordem Passeriformes na amostra, buscando avaliar se há predominância desta ordem na distribuição. Além disso, foram definidas variáveis aleatórias para exemplificação, como massa das aves e comportamento migratório.
-*   **Aplicação de Trilobitas**: 
+*   **Aplicação de Trilobitas**:
+*   **Aplicação de insetos**:
 
 ## Instruções para execução do notebook
+
+O notebook foi desenvolvido para ser executado em ambientes que suportem arquivos `.ipynb`, como o **[Google Colab](https://colab.research.google.com/)**, Jupyter Notebook ou JupyterLab.
+Para testar os códigos, certifique-se de que as bases de dados e as bibliotecas listadas abaixo estejam importadas e disponíveis no ambiente de execução. Além disso, cheque se os arquivos de dados foram importados para o ambiente de execução. Os arquivos necessários estão disponíveis no repositório com nomeação "-tarefa11" na parte anterior.
 
 ## Lista de bibliotecas utilizadas
 
@@ -48,6 +52,7 @@ As análises foram construídas em cima das seguintes bases de dados biológicas
     *   *Link da fonte original:* https://figshare.com/s/b990722d72a26b5bfead
 *   **Dados de Trilobitas** (`tarefa11trilobitas.xlsx`): Utilizado para a aplicação do modelo Binomial.
     *   *Link da fonte original:* [Inserir link da fonte de dados aqui]
+*    *   **Dados de insetos**: dados inteiramente simulados.
       
 ## Refererências
 
