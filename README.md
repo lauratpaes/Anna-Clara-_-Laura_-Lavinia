@@ -55,12 +55,15 @@ As análises foram construídas em cima das seguintes bases de dados biológicas
 *    *   **Dados de insetos**: dados inteiramente simulados.
       
 ## Refererências
+COLOSIMO, Enrico Antonio. Aula 11: Distribuições de Probabilidade Discretas. Belo Horizonte: Departamento de Estatística, Universidade Federal de Minas Gerais (UFMG). Disponível em: https://www.est.ufmg.br/~enricoc/pdf/medicina/Aula11.pdf. Acesso em: 30 set. 2026.
 
 DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 9. ed. São Paulo: Cengage, 2018. Acesso em: 26 set. 2026.
 
 MEYER, P. L. Probabilidade: aplicações à Estatística. Tradução de Solange Aparecida Visconte. 2. ed. Rio de Janeiro: LTC, 1983. Acesso em: 26 set. 2026.
 
 MIGUEL, Maria Inez Rodrigues. Ensino e aprendizagem do modelo Poisson: uma experiência com modelagem. 2005.
+
+PALEOBIOLOGY DATABASE. Download Generator. Paleobiology Database Resources. Disponível em: https://paleobiodb.org/classic/displayDownloadGenerator. Acesso em: 30 set. 2026.
 
 TOBIAS, J.A.; et al. AVONET: morphological, ecological and geographical data for all birds. Ecology Letters, 25, 581–597, 2022. Disponível em: https://doi.org/10.1111/ele.13898. Acesso em 27 set.2026.
 
