@@ -28,7 +28,7 @@ O notebook apresenta os seguintes tópicos:
 
 *   **Aplicação de aves**: estudo de categorias taxonômicas. O banco de dados foi utilizado para avaliar a distribuição da ordem Passeriformes na amostra, buscando avaliar se há predominância desta ordem na distribuição. Além disso, foram definidas variáveis aleatórias para exemplificação, como massa das aves e comportamento migratório.
 *   **Aplicação de Trilobitas**: Estudo da aparição do gênero *Phacops* durante o período Devoniano. O banco de dados foi utilizado para avaliar a aparição de fósseis de Trilobitas do gênero *Phacops* durante o período devoniano, representando como sucesso (1) a aparição do gênero desejado e como fracasso (0) a aparição de outros gêneros de Trilobitas. Auxiliando assim na estimativa de densidade populacional de representantes do gênero no período selecionado.  
-*   **Aplicação de insetos**:
+*   **Aplicação de insetos**: Estudo da frequência de captura de insetos por armadilha ao longo do tempo. Foram utilizados dados simulados referentes a 30 noites de observação, considerando uma média de quatro insetos capturados por noite (λ=4). O modelo de Poisson foi aplicado para estimar a probabilidade de ocorrência de diferentes quantidades de capturas em uma noite, permitindo comparar as frequências observadas com as esperadas pela distribuição teórica. Essa abordagem possibilita exemplificar o uso do modelo na análise da ocorrência de organismos em unidades de tempo definidas, como o número de insetos capturados por noite.
 
 ## Instruções para execução do notebook
 
