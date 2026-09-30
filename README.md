@@ -55,6 +55,8 @@ DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 9. ed. S
 
 MEYER, P. L. Probabilidade: aplicações à Estatística. Tradução de Solange Aparecida Visconte. 2. ed. Rio de Janeiro: LTC, 1983. Acesso em: 26 set. 2026.
 
+MIGUEL, Maria Inez Rodrigues. Ensino e aprendizagem do modelo Poisson: uma experiência com modelagem. 2005.
+
 TOBIAS, J.A.; et al. AVONET: morphological, ecological and geographical data for all birds. Ecology Letters, 25, 581–597, 2022. Disponível em: https://doi.org/10.1111/ele.13898. Acesso em 27 set.2026.
 
 
