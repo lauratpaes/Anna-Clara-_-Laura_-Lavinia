@@ -1,6 +1,9 @@
-##Grupo 1: Anna-Clara-_-Laura_-Lavinia
+## Grupo 1: Anna-Clara-_-Laura_-Lavinia
+
 Anna Clara Belmiro Tonial - 17097091
+
 Laura Tavares Paes -  17097601
+
 Lavínia Ramos Lourenço - 17081100
 
 # Tarefa 11: Probabilidade aplicada à Biologia: variáveis aleatórias e modelos probabilísticos
