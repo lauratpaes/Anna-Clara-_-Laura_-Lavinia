@@ -27,7 +27,7 @@ O notebook apresenta os seguintes tópicos:
 ## Contextos biológicos aplicados
 
 *   **Aplicação de aves**: estudo de categorias taxonômicas. O banco de dados foi utilizado para avaliar a distribuição da ordem Passeriformes na amostra, buscando avaliar se há predominância desta ordem na distribuição. Além disso, foram definidas variáveis aleatórias para exemplificação, como massa das aves e comportamento migratório.
-*   **Aplicação de Trilobitas**:
+*   **Aplicação de Trilobitas**: Estudo da aparição do gênero *Phacops* durante o período Devoniano. O banco de dados foi utilizado para avaliar a aparição de fósseis de Trilobitas do gênero *Phacops* durante o período devoniano, representando como sucesso (1) a aparição do gênero desejado e como fracasso (0) a aparição de outros gêneros de Trilobitas. Auxiliando assim na estimativa de densidade populacional de representantes do gênero no período selecionado.  
 *   **Aplicação de insetos**:
 
 ## Instruções para execução do notebook
@@ -51,7 +51,7 @@ As análises foram construídas em cima das seguintes bases de dados biológicas
 *   **Dados de Aves** (`tarefa11aves.xlsx`): Utilizado para os exemplos de variáveis aleatórias e simulação do modelo de Bernoulli (análise da ordem *Passeriformes*).
     *   *Link da fonte original:* https://figshare.com/s/b990722d72a26b5bfead
 *   **Dados de Trilobitas** (`tarefa11trilobitas.xlsx`): Utilizado para a aplicação do modelo Binomial.
-    *   *Link da fonte original:* [Inserir link da fonte de dados aqui]
+    *   *Link da fonte original:* https://paleobiodb.org/classic/displayDownloadGenerator
 *    *   **Dados de insetos**: dados inteiramente simulados.
       
 ## Refererências
