@@ -68,4 +68,17 @@ PALEOBIOLOGY DATABASE. Download Generator. Paleobiology Database Resources. Disp
 TOBIAS, J.A.; et al. AVONET: morphological, ecological and geographical data for all birds. Ecology Letters, 25, 581–597, 2022. Disponível em: https://doi.org/10.1111/ele.13898. Acesso em 27 set.2026.
 
 
+# Tarefa 13: Distribuições de probabilidade
 
+##Instruções para execução do notebook
+
+O notebook foi desenvolvido para ser executado em ambientes que suportem arquivos `.ipynb`, como o **[Google Colab](https://colab.research.google.com/)**, Jupyter Notebook ou JupyterLab.
+Para testar os códigos, certifique-se de que as bases de dados e as bibliotecas listadas abaixo estejam importadas e disponíveis no ambiente de execução. Os arquivos necessários estão disponíveis diretamente no código python já com código para extração.
+
+## Referências
+
+ Aplicadas Descomplicadas. Distribuição Normal. 2021. Disponível em: https://youtu.be/rMfJID2l4Fs?si=i_PSYTmiWwwsTJiN.
+
+ Villegas, C. L. Slides de aula: Bioestatística. Via edisciplinas.
+
+ Professor Rafael Gallas. Distribuição F - Snedecor. 2020. Disponível em https://youtu.be/WGOvP6E62uM?si=ZAueczGQzcoWxGMV.
